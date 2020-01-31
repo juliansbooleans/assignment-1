@@ -28,18 +28,14 @@ Regardless, I was able to put this website together. Most importantly, I feel th
 ### Develop
 
 To develop this document, you can follow the steps provided below:
-1. create a fork of this project on Github
-2. ping the author of this repo via Github Issues to see if they are looking for contributions on the specific feature you're looking to add
-3. open the file in VS Code and make updates 
-4. add and commit those changes in your forked github repo
-5. make a pull request specifying what additions and changes were made
-6. have a nice chat and communication with me about those changes. 
-7. celebrate the contribution! 
+
+1. Follow this comprehensive and easy to understand {Website Guide} (https://github.com/itp-dwd/2020-spring/blob/master/guides/your-first-website-guide.md) built by Joey & Cassie.
+2. Channel all of your childhood (or adult) memories from the one and only Kobe Bean Bryant.
 
 <!-- Notes about the deployment -->
 ### Deployment
 
-This project is hosted on Github. Github renders markdown files.
+This project is hosted on Github: https://github.com/juliantisomathews/assignment-1
 
 ## Built with
 
@@ -48,8 +44,7 @@ This project is hosted on Github. Github renders markdown files.
 
 ## Authors
 
-* [Joey Lee](https://jk-lee.com) -- adjunct professor -- [NYU ITP](https://itp.nyu.edu)
-* [Cassie Tarakajian](https://cassietarakajian.com/) -- adjunct professor -- [NYU ITP](https://itp.nyu.edu)
+* Julian Mathews
 
 ## Code of Conduct
 
@@ -69,21 +64,3 @@ This is README template is licensed according to [Attribution 4.0 International 
 ***
 ***
 ***
-
-<!-- For your assignments you might consider  -->
-# Notes & Process
-
-<!-- How you built this project - Include images, gifs, and notes here -->
-## Process & Documentation
-
-<!-- Any specific challenges or struggles documented -->
-## Challenges & Struggles
-
-<!-- Any questions you have -->
-## Questions
-
-<!-- References for resources and inspiration -->
-## References
-
-* Author First Name, Author Last Name. [Link]()
-* Author First Name, Author Last Name. [Link]()
